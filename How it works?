@@ -1,0 +1,7 @@
+How it works?
+Base uses something called Optimistic Rollups.
+
+Simple idea:
+
+Transactions happen on Base (fast & cheap)
+Then they are bundled and confirmed on Ethereum (secure)
